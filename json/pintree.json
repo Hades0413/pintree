@@ -27,7 +27,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386071,
+        "addDate": 1730855819203,
         "title": "cib",
         "children": [
           {
@@ -69,7 +69,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386072,
+        "addDate": 1730855819203,
         "title": "transfer",
         "children": [
           {
@@ -90,7 +90,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386072,
+        "addDate": 1730855819204,
         "title": "bookstores",
         "children": [
           {
@@ -139,7 +139,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386073,
+        "addDate": 1730855819205,
         "title": "design",
         "children": [
           {
@@ -167,7 +167,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386074,
+        "addDate": 1730855819205,
         "title": "icons",
         "children": [
           {
@@ -202,7 +202,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386074,
+        "addDate": 1730855819205,
         "title": "tools-productivity",
         "children": [
           {
@@ -272,7 +272,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386075,
+        "addDate": 1730855819207,
         "title": "work tools",
         "children": [
           {
@@ -398,7 +398,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386077,
+        "addDate": 1730855819208,
         "title": "components",
         "children": [
           {
@@ -468,7 +468,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386078,
+        "addDate": 1730855819210,
         "title": "customize images",
         "children": [
           {
@@ -517,7 +517,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386079,
+        "addDate": 1730855819210,
         "title": "color-tools",
         "children": [
           {
@@ -587,7 +587,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386080,
+        "addDate": 1730855819211,
         "title": "storage",
         "children": [
           {
@@ -622,7 +622,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386081,
+        "addDate": 1730855819212,
         "title": "programming",
         "children": [
           {
@@ -699,7 +699,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386082,
+        "addDate": 1730855819213,
         "title": "servers",
         "children": [
           {
@@ -727,7 +727,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1730764386082,
+        "addDate": 1730855819213,
         "title": "url tools",
         "children": [
           {
@@ -757,12 +757,26 @@
             "title": "URL TinyURL",
             "icon": "https://logo.clearbit.com/tinyurl.com",
             "url": "https://tinyurl.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730851779000,
+            "title": "Lector de códigos QR gratuito en línea | Lector de códigos QR",
+            "icon": "https://logo.clearbit.com/pageloot.com",
+            "url": "https://pageloot.com/es/qr-code-scanner/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730851799000,
+            "title": "Lector QR Online. Decodifica códigos QR en línea gratis",
+            "icon": "https://logo.clearbit.com/www.codigos-qr.com",
+            "url": "https://www.codigos-qr.com/lector-qr-online/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1730764386083,
+        "addDate": 1730855819214,
         "title": "api",
         "children": [
           {
@@ -806,6 +820,62 @@
             "title": "EmailJS",
             "icon": "https://logo.clearbit.com/dashboard.emailjs.com",
             "url": "https://dashboard.emailjs.com/admin"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730855819215,
+        "title": "streaming",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1730846499000,
+            "title": "Netflix",
+            "icon": "https://logo.clearbit.com/www.netflix.com",
+            "url": "https://www.netflix.com/browse"
+          },
+          {
+            "type": "link",
+            "addDate": 1730846908000,
+            "title": "Max",
+            "icon": "https://logo.clearbit.com/www.max.com",
+            "url": "https://www.max.com/pe/es"
+          },
+          {
+            "type": "link",
+            "addDate": 1730847090000,
+            "title": "Disney+",
+            "icon": "https://logo.clearbit.com/www.disneyplus.com",
+            "url": "https://www.disneyplus.com/es-pe"
+          },
+          {
+            "type": "link",
+            "addDate": 1730847134000,
+            "title": "Crunchyroll",
+            "icon": "https://logo.clearbit.com/www.crunchyroll.com",
+            "url": "https://www.crunchyroll.com/es"
+          },
+          {
+            "type": "link",
+            "addDate": 1730847312000,
+            "title": "Pelota Libre TV",
+            "icon": "https://logo.clearbit.com/pelotalibre.pe",
+            "url": "https://pelotalibre.pe/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730847334000,
+            "title": "Goluchas",
+            "icon": "https://logo.clearbit.com/goluchas.com",
+            "url": "https://goluchas.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730847384000,
+            "title": "Mundo Lucha",
+            "icon": "https://logo.clearbit.com/mundolucha.com",
+            "url": "https://mundolucha.com/"
           }
         ]
       }
