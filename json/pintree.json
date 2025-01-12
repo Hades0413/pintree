@@ -1,87 +1,122 @@
 [
   {
     "type": "folder",
-    "addDate": 1711642558889,
+    "addDate": 1735106351468,
     "title": "Barra de marcadores",
     "children": [
       {
         "type": "link",
-        "addDate": 1727044673000,
-        "title": "Facebook",
-        "icon": "https://logo.clearbit.com/www.facebook.com",
-        "url": "https://www.facebook.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1727044673000,
+        "addDate": 1736656132163,
         "title": "YouTube",
         "icon": "https://logo.clearbit.com/www.youtube.com",
         "url": "https://www.youtube.com/"
       },
       {
         "type": "link",
-        "addDate": 1730677387000,
+        "addDate": 1736656132163,
         "title": "daily.dev",
         "icon": "https://logo.clearbit.com/app.daily.dev",
         "url": "https://app.daily.dev/"
       },
       {
         "type": "folder",
-        "addDate": 1731296637639,
-        "title": "cib",
+        "addDate": 1736656132163,
+        "title": "network",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
-            "title": "Login CIBERTEC",
-            "icon": "https://logo.clearbit.com/intranet.cibertec.edu.pe",
-            "url": "https://intranet.cibertec.edu.pe/LoginIntranet/LoginCIB.aspx"
+            "addDate": 1736656132163,
+            "title": "Facebook",
+            "icon": "https://logo.clearbit.com/www.facebook.com",
+            "url": "https://www.facebook.com/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
-            "title": "Mi institucion CIBERTEC – Blackboard Learn",
-            "icon": "https://logo.clearbit.com/cibertec.blackboard.com",
-            "url": "https://cibertec.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_16_1"
+            "addDate": 1736656132163,
+            "title": "Instagram",
+            "icon": "https://logo.clearbit.com/www.instagram.com",
+            "url": "https://www.instagram.com/"
           },
           {
             "type": "link",
-            "addDate": 1730687632000,
-            "title": "Nuevo Portal del Estudiante Mi Cibertec y Servicios Virtuales",
-            "icon": "https://logo.clearbit.com/estudiante.cibertec.edu.pe",
-            "url": "https://estudiante.cibertec.edu.pe/"
+            "addDate": 1736656132163,
+            "title": " X",
+            "icon": "https://logo.clearbit.com/x.com",
+            "url": "https://x.com/home"
           },
           {
             "type": "link",
-            "addDate": 1730748762000,
-            "title": "Contacto Cibertec",
-            "icon": "https://logo.clearbit.com/contacto.cibertec.edu.pe",
-            "url": "https://contacto.cibertec.edu.pe/index.php"
+            "addDate": 1736656132163,
+            "title": "TikTok",
+            "icon": "https://logo.clearbit.com/www.tiktok.com",
+            "url": "https://www.tiktok.com/@hades0413"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
-            "title": "Quizit - Best Quizizz Hack, Cheat, Answers",
-            "icon": "https://logo.clearbit.com/quizit.online",
-            "url": "https://quizit.online/services/quizizz"
+            "addDate": 1736656132163,
+            "title": "WhatsApp",
+            "icon": "https://logo.clearbit.com/web.whatsapp.com",
+            "url": "https://web.whatsapp.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132163,
+            "title": "Portafolio",
+            "icon": "https://logo.clearbit.com/portafoliohades0413.netlify.app",
+            "url": "https://portafoliohades0413.netlify.app/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1731296637640,
+        "addDate": 1736656132164,
+        "title": "office",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1736656132164,
+            "title": "Outlook",
+            "icon": "https://logo.clearbit.com/outlook.office.com",
+            "url": "https://outlook.office.com/mail/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132164,
+            "title": "Gmail",
+            "icon": "https://logo.clearbit.com/mail.google.com",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132164,
+            "title": "Google Drive",
+            "icon": "https://logo.clearbit.com/drive.google.com",
+            "url": "https://drive.google.com/drive/my-drive"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132164,
+            "title": "Microsoft 365",
+            "icon": "https://logo.clearbit.com/www.microsoft365.com",
+            "url": "https://www.microsoft365.com/?auth=2&home=1&from=ShellLogo"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1736656132164,
         "title": "transfer",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132164,
             "title": "WeTransfer",
             "icon": "https://logo.clearbit.com/wetransfer.com",
             "url": "https://wetransfer.com/"
           },
           {
             "type": "link",
-            "addDate": 1730594739000,
+            "addDate": 1736656132164,
             "title": "SwissTransfer",
             "icon": "https://logo.clearbit.com/www.swisstransfer.com",
             "url": "https://www.swisstransfer.com/es-mx"
@@ -90,47 +125,47 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637641,
+        "addDate": 1736656132164,
         "title": "bookstores",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132164,
             "title": "SweetAlert2",
             "icon": "https://logo.clearbit.com/sweetalert2.github.io",
             "url": "https://sweetalert2.github.io/#download"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132164,
             "title": "Font Awesome - Libraries",
             "icon": "https://logo.clearbit.com/cdnjs.com",
             "url": "https://cdnjs.com/libraries/font-awesome"
           },
           {
             "type": "link",
-            "addDate": 1730672571000,
+            "addDate": 1736656132164,
             "title": "Font Awesome - Icons",
             "icon": "https://logo.clearbit.com/fontawesome.com",
             "url": "https://fontawesome.com/icons"
           },
           {
             "type": "link",
-            "addDate": 1730672815000,
+            "addDate": 1736656132164,
             "title": "Boxicons",
             "icon": "https://logo.clearbit.com/boxicons.com",
             "url": "https://boxicons.com/"
           },
           {
             "type": "link",
-            "addDate": 1730672850000,
+            "addDate": 1736656132165,
             "title": "Google Fonts",
             "icon": "https://logo.clearbit.com/fonts.google.com",
             "url": "https://fonts.google.com/"
           },
           {
             "type": "link",
-            "addDate": 1730672884000,
+            "addDate": 1736656132165,
             "title": "FontGet",
             "icon": "https://logo.clearbit.com/www.fontget.com",
             "url": "https://www.fontget.com/"
@@ -139,131 +174,145 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637641,
+        "addDate": 1736656132165,
         "title": "design",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132165,
             "title": "MockFlow",
             "icon": "https://logo.clearbit.com/wireframepro.mockflow.com",
             "url": "https://wireframepro.mockflow.com/"
           },
           {
             "type": "link",
-            "addDate": 1728603398000,
+            "addDate": 1736656132165,
             "title": "Shots -  Mockups",
             "icon": "https://logo.clearbit.com/shots.so",
             "url": "https://shots.so/"
           },
           {
             "type": "link",
-            "addDate": 1730673388000,
+            "addDate": 1736656132165,
             "title": "Excalidraw",
             "icon": "https://logo.clearbit.com/excalidraw.com",
             "url": "https://excalidraw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132165,
+            "title": "Miro",
+            "icon": "https://logo.clearbit.com/miro.com",
+            "url": "https://miro.com/app/dashboard/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1731296637642,
+        "addDate": 1736656132165,
         "title": "icons",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132165,
             "title": "A beautiful library with SVG logos - Svgl",
             "icon": "https://logo.clearbit.com/svgl.app",
             "url": "https://svgl.app/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132165,
             "title": "Freesets",
             "icon": "https://logo.clearbit.com/freesets.dev",
             "url": "https://freesets.dev/"
           },
           {
             "type": "link",
-            "addDate": 1730595326000,
+            "addDate": 1736656132165,
             "title": "Flaticon",
             "icon": "https://logo.clearbit.com/www.flaticon.es",
             "url": "https://www.flaticon.es/iconos-animados"
           },
           {
             "type": "link",
-            "addDate": 1730690781000,
+            "addDate": 1736656132165,
             "title": "SVG Repo",
             "icon": "https://logo.clearbit.com/www.svgrepo.com",
             "url": "https://www.svgrepo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132165,
+            "title": "xandemon",
+            "icon": "https://logo.clearbit.com/xandemon.github.io",
+            "url": "https://xandemon.github.io/developer-icons/icons/All/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1731296637642,
+        "addDate": 1736656132165,
         "title": "tools-productivity",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132165,
             "title": "Postgres Sandbox",
             "icon": "https://logo.clearbit.com/postgres.new",
             "url": "https://postgres.new/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132166,
             "title": "dbdiagram.io",
             "icon": "https://logo.clearbit.com/dbdiagram.io",
             "url": "https://dbdiagram.io/d"
           },
           {
             "type": "link",
-            "addDate": 1730678881000,
+            "addDate": 1736656132166,
             "title": "JSON Data AI",
             "icon": "https://logo.clearbit.com/www.jsondataai.com",
             "url": "https://www.jsondataai.com/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132166,
             "title": "v0",
             "icon": "https://logo.clearbit.com/v0.dev",
             "url": "https://v0.dev/"
           },
           {
             "type": "link",
-            "addDate": 1728425656000,
+            "addDate": 1736656132166,
             "title": "bolt",
             "icon": "https://logo.clearbit.com/bolt.new",
             "url": "https://bolt.new/"
           },
           {
             "type": "link",
-            "addDate": 1730674645000,
+            "addDate": 1736656132166,
             "title": "Durable",
             "icon": "https://logo.clearbit.com/app.durable.co",
             "url": "https://app.durable.co/es/business-selector"
           },
           {
             "type": "link",
-            "addDate": 1730683089000,
+            "addDate": 1736656132166,
             "title": "CLONE UI",
             "icon": "https://logo.clearbit.com/clone-ui.design",
             "url": "https://clone-ui.design/"
           },
           {
             "type": "link",
-            "addDate": 1730682545000,
+            "addDate": 1736656132166,
             "title": "ai2ui",
             "icon": "https://logo.clearbit.com/ai2ui.co",
             "url": "https://ai2ui.co/es"
           },
           {
             "type": "link",
-            "addDate": 1727645077000,
+            "addDate": 1736656132166,
             "title": "draw.io",
             "icon": "https://logo.clearbit.com/app.diagrams.net",
             "url": "https://app.diagrams.net/"
@@ -272,208 +321,264 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637643,
+        "addDate": 1736656132166,
         "title": "work tools",
         "children": [
           {
             "type": "link",
-            "addDate": 1730604155000,
+            "addDate": 1736656132166,
             "title": "codi.link",
             "icon": "https://logo.clearbit.com/codi.link",
             "url": "https://codi.link/%7C%7C"
           },
           {
             "type": "link",
-            "addDate": 1730604670000,
+            "addDate": 1736656132166,
             "title": "CodePen",
             "icon": "https://logo.clearbit.com/codepen.io",
             "url": "https://codepen.io/pen"
           },
           {
             "type": "link",
-            "addDate": 1730605948000,
+            "addDate": 1736656132166,
             "title": "StackBlitz",
             "icon": "https://logo.clearbit.com/stackblitz.com",
             "url": "https://stackblitz.com/"
           },
           {
             "type": "link",
-            "addDate": 1727487184000,
+            "addDate": 1736656132166,
             "title": "HTML to JSX",
             "icon": "https://logo.clearbit.com/transform.tools",
             "url": "https://transform.tools/html-to-jsx"
           },
           {
             "type": "link",
-            "addDate": 1731281134000,
+            "addDate": 1736656132166,
             "title": "HTML 404 Page Templates - DEV Community",
             "icon": "https://logo.clearbit.com/dev.to",
             "url": "https://dev.to/stackfindover/35-html-404-page-templates-5bge"
           },
           {
             "type": "link",
-            "addDate": 1731283880000,
+            "addDate": 1736656132167,
+            "title": "awesome-nextjs",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/officialrajdeepsingh/awesome-nextjs"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132167,
             "title": "REST API Generator",
             "icon": "https://logo.clearbit.com/retool.com",
             "url": "https://retool.com/api-generator"
           },
           {
             "type": "link",
-            "addDate": 1730683825000,
+            "addDate": 1736656132167,
             "title": "SmallDev.tools",
             "icon": "https://logo.clearbit.com/smalldev.tools",
             "url": "https://smalldev.tools/"
           },
           {
             "type": "link",
-            "addDate": 1730683883000,
+            "addDate": 1736656132167,
             "title": "Jam Dev Utilities",
             "icon": "https://logo.clearbit.com/jam.dev",
             "url": "https://jam.dev/utilities"
           },
           {
             "type": "link",
-            "addDate": 1730603921000,
+            "addDate": 1736656132167,
             "title": "SWC",
             "icon": "https://logo.clearbit.com/swc.rs",
             "url": "https://swc.rs/playground"
           },
           {
             "type": "link",
-            "addDate": 1730684163000,
+            "addDate": 1736656132167,
             "title": "shell.how",
             "icon": "https://logo.clearbit.com/www.shell.how",
             "url": "https://www.shell.how/"
           },
           {
             "type": "link",
-            "addDate": 1727642658000,
+            "addDate": 1736656132167,
             "title": "PageSpeed Insights",
             "icon": "https://logo.clearbit.com/pagespeed.web.dev",
             "url": "https://pagespeed.web.dev/"
           },
           {
             "type": "link",
-            "addDate": 1727736923000,
+            "addDate": 1736656132167,
             "title": "Can I use",
             "icon": "https://logo.clearbit.com/caniuse.com",
             "url": "https://caniuse.com/"
           },
           {
             "type": "link",
-            "addDate": 1730673200000,
+            "addDate": 1736656132167,
             "title": "DevDocs API",
             "icon": "https://logo.clearbit.com/devdocs.io",
             "url": "https://devdocs.io/"
           },
           {
             "type": "link",
-            "addDate": 1727487199000,
+            "addDate": 1736656132167,
             "title": "iLovePDF",
             "icon": "https://logo.clearbit.com/www.ilovepdf.com",
             "url": "https://www.ilovepdf.com/es"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132167,
+            "title": "PDF24 Tools",
+            "icon": "https://logo.clearbit.com/tools.pdf24.org",
+            "url": "https://tools.pdf24.org/es/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132167,
             "title": "Yandex Traductor",
             "icon": "https://logo.clearbit.com/translate.yandex.com",
             "url": "https://translate.yandex.com/es/ocr"
           },
           {
             "type": "link",
-            "addDate": 1727048475000,
+            "addDate": 1736656132167,
             "title": "Recuperación de contraseña RAR — desbloquear un archivo RAR gratis en línea",
             "icon": "https://logo.clearbit.com/www.lostmypass.com",
             "url": "https://www.lostmypass.com/es/file-types/rar/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132167,
             "title": "Temp Mail",
             "icon": "https://logo.clearbit.com/temp-mail.org",
             "url": "https://temp-mail.org/es/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132167,
             "title": "Education - Microsoft Azure",
             "icon": "https://logo.clearbit.com/portal.azure.com",
             "url": "https://portal.azure.com/?Microsoft_Azure_Education_correlationId=29c30ce6-ba0b-4452-8e96-4749a6d56009#view/Microsoft_Azure_Education/EducationMenuBlade/~/software"
           },
           {
             "type": "link",
-            "addDate": 1728680139000,
+            "addDate": 1736656132167,
             "title": "VirusTotal",
             "icon": "https://logo.clearbit.com/www.virustotal.com",
             "url": "https://www.virustotal.com/gui/home/upload"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132167,
+            "title": "DrawSQL - 🔥 Database schema diagrams",
+            "icon": "https://logo.clearbit.com/drawsql.app",
+            "url": "https://drawsql.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132168,
+            "title": "11zona",
+            "icon": "https://logo.clearbit.com/www.11zon.com",
+            "url": "https://www.11zon.com/es/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132168,
+            "title": "CSS Compressor",
+            "icon": "https://logo.clearbit.com/csscompressor.com",
+            "url": "https://csscompressor.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132168,
+            "title": "JavaScript Compressor | Minify JavaScript Online | GiftOfSpeed",
+            "icon": "https://logo.clearbit.com/www.giftofspeed.com",
+            "url": "https://www.giftofspeed.com/javascript-compressor/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132168,
+            "title": "Comprimir HTML",
+            "icon": "https://logo.clearbit.com/www.textfixeres.com",
+            "url": "https://www.textfixeres.com/html/comprimir-html.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132168,
+            "title": "Detect which CMS a site is using - What CMS?",
+            "icon": "https://logo.clearbit.com/whatcms.org",
+            "url": "https://whatcms.org/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1731296637645,
+        "addDate": 1736656132168,
         "title": "components",
         "children": [
           {
             "type": "link",
-            "addDate": 1727735854000,
+            "addDate": 1736656132168,
             "title": "Material UI",
             "icon": "https://logo.clearbit.com/mui.com",
             "url": "https://mui.com/material-ui/all-components/"
           },
           {
             "type": "link",
-            "addDate": 1727735967000,
+            "addDate": 1736656132168,
             "title": "Ant Design",
             "icon": "https://logo.clearbit.com/ant.design",
             "url": "https://ant.design/components/overview?theme=dark"
           },
           {
             "type": "link",
-            "addDate": 1727735994000,
+            "addDate": 1736656132168,
             "title": "Chakra UI",
             "icon": "https://logo.clearbit.com/v2.chakra-ui.com",
             "url": "https://v2.chakra-ui.com/docs/components"
           },
           {
             "type": "link",
-            "addDate": 1730679775000,
+            "addDate": 1736656132168,
             "title": "shadcn/ui",
             "icon": "https://logo.clearbit.com/ui.shadcn.com",
             "url": "https://ui.shadcn.com/"
           },
           {
             "type": "link",
-            "addDate": 1730676024000,
+            "addDate": 1736656132168,
             "title": "Uiverse",
             "icon": "https://logo.clearbit.com/uiverse.io",
             "url": "https://uiverse.io/"
           },
           {
             "type": "link",
-            "addDate": 1730691889000,
+            "addDate": 1736656132168,
             "title": "Magic UI",
             "icon": "https://logo.clearbit.com/magicui.design",
             "url": "https://magicui.design/docs/components/marquee"
           },
           {
             "type": "link",
-            "addDate": 1727736012000,
+            "addDate": 1736656132168,
             "title": "Motion-Primitives",
             "icon": "https://logo.clearbit.com/motion-primitives.com",
             "url": "https://motion-primitives.com/"
           },
           {
             "type": "link",
-            "addDate": 1730690541000,
+            "addDate": 1736656132168,
             "title": "CSS loaders and Spinners",
             "icon": "https://logo.clearbit.com/cssloaders.github.io",
             "url": "https://cssloaders.github.io/"
           },
           {
             "type": "link",
-            "addDate": 1730690564000,
+            "addDate": 1736656132168,
             "title": "CSS Loaders",
             "icon": "https://logo.clearbit.com/css-loaders.com",
             "url": "https://css-loaders.com/spinner/"
@@ -482,47 +587,47 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637646,
+        "addDate": 1736656132168,
         "title": "customize images",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132168,
             "title": "iLoveIMG",
             "icon": "https://logo.clearbit.com/www.iloveimg.com",
             "url": "https://www.iloveimg.com/es"
           },
           {
             "type": "link",
-            "addDate": 1727984699000,
+            "addDate": 1736656132168,
             "title": "ResizePixel",
             "icon": "https://logo.clearbit.com/www.resizepixel.com",
             "url": "https://www.resizepixel.com/es"
           },
           {
             "type": "link",
-            "addDate": 1727577003000,
+            "addDate": 1736656132169,
             "title": "Photoroom",
             "icon": "https://logo.clearbit.com/www.photoroom.com",
             "url": "https://www.photoroom.com/es/herramientas/eliminador-de-fondos"
           },
           {
             "type": "link",
-            "addDate": 1727046480000,
+            "addDate": 1736656132169,
             "title": "remove.bg",
             "icon": "https://logo.clearbit.com/www.remove.bg",
             "url": "https://www.remove.bg/es"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132169,
             "title": "TinyPNG",
             "icon": "https://logo.clearbit.com/tinypng.com",
             "url": "https://tinypng.com/"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132169,
             "title": "Squoosh",
             "icon": "https://logo.clearbit.com/squoosh.app",
             "url": "https://squoosh.app/"
@@ -531,75 +636,75 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637647,
+        "addDate": 1736656132169,
         "title": "color-tools",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132169,
             "title": "Color Picker",
             "icon": "https://logo.clearbit.com/imagecolorpicker.com",
             "url": "https://imagecolorpicker.com/es"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132169,
             "title": "uiGradients",
             "icon": "https://logo.clearbit.com/uigradients.com",
             "url": "https://uigradients.com/#YouTube"
           },
           {
             "type": "link",
-            "addDate": 1730602537000,
+            "addDate": 1736656132169,
             "title": "Grabient",
             "icon": "https://logo.clearbit.com/www.grabient.com",
             "url": "https://www.grabient.com/"
           },
           {
             "type": "link",
-            "addDate": 1730602572000,
+            "addDate": 1736656132169,
             "title": "ColorSpace",
             "icon": "https://logo.clearbit.com/mycolor.space",
             "url": "https://mycolor.space/"
           },
           {
             "type": "link",
-            "addDate": 1730602651000,
+            "addDate": 1736656132169,
             "title": "CSS Gradient",
             "icon": "https://logo.clearbit.com/cssgradient.io",
             "url": "https://cssgradient.io/"
           },
           {
             "type": "link",
-            "addDate": 1730602668000,
+            "addDate": 1736656132169,
             "title": "Gradient Hunt",
             "icon": "https://logo.clearbit.com/gradienthunt.com",
             "url": "https://gradienthunt.com/"
           },
           {
             "type": "link",
-            "addDate": 1730602807000,
+            "addDate": 1736656132169,
             "title": "Color Hunt",
             "icon": "https://logo.clearbit.com/colorhunt.co",
             "url": "https://colorhunt.co/"
           },
           {
             "type": "link",
-            "addDate": 1730602900000,
+            "addDate": 1736656132169,
             "title": "Coolors",
             "icon": "https://logo.clearbit.com/coolors.co",
             "url": "https://coolors.co/palettes/trending"
           },
           {
             "type": "link",
-            "addDate": 1730602932000,
+            "addDate": 1736656132169,
             "title": "Design Seeds",
             "icon": "https://logo.clearbit.com/www.design-seeds.com",
             "url": "https://www.design-seeds.com/"
           },
           {
             "type": "link",
-            "addDate": 1731195296000,
+            "addDate": 1736656132169,
             "title": "Picular",
             "icon": "https://logo.clearbit.com/picular.co",
             "url": "https://picular.co/"
@@ -608,33 +713,33 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637648,
+        "addDate": 1736656132169,
         "title": "storage",
         "children": [
           {
             "type": "link",
-            "addDate": 1730596209000,
+            "addDate": 1736656132169,
             "title": "TeraBox ",
             "icon": "https://logo.clearbit.com/www.terabox.com",
             "url": "https://www.terabox.com/spanish"
           },
           {
             "type": "link",
-            "addDate": 1730596353000,
+            "addDate": 1736656132169,
             "title": "Dropbox",
             "icon": "https://logo.clearbit.com/www.dropbox.com",
             "url": "https://www.dropbox.com/home"
           },
           {
             "type": "link",
-            "addDate": 1730599375000,
+            "addDate": 1736656132169,
             "title": "MediaFire",
             "icon": "https://logo.clearbit.com/app.mediafire.com",
             "url": "https://app.mediafire.com/myfiles"
           },
           {
             "type": "link",
-            "addDate": 1730599463000,
+            "addDate": 1736656132170,
             "title": "MEGA",
             "icon": "https://logo.clearbit.com/mega.nz",
             "url": "https://mega.nz/fm/bHxyTYxR"
@@ -643,75 +748,75 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637649,
+        "addDate": 1736656132170,
         "title": "programming",
         "children": [
           {
             "type": "link",
-            "addDate": 1730600445000,
+            "addDate": 1736656132170,
             "title": "Hades0413 (Hades0413)",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/Hades0413"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132170,
             "title": "Netlify",
             "icon": "https://logo.clearbit.com/app.netlify.com",
             "url": "https://app.netlify.com/teams/hades0413/overview"
           },
           {
             "type": "link",
-            "addDate": 1730600941000,
+            "addDate": 1736656132170,
             "title": "Vercel",
             "icon": "https://logo.clearbit.com/vercel.com",
             "url": "https://vercel.com/home"
           },
           {
             "type": "link",
-            "addDate": 1730601028000,
+            "addDate": 1736656132170,
             "title": "Render",
             "icon": "https://logo.clearbit.com/dashboard.render.com",
             "url": "https://dashboard.render.com/"
           },
           {
             "type": "link",
-            "addDate": 1730601228000,
+            "addDate": 1736656132170,
             "title": "AWS",
             "icon": "https://logo.clearbit.com/us-east-1.console.aws.amazon.com",
             "url": "https://us-east-1.console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1"
           },
           {
             "type": "link",
-            "addDate": 1730601681000,
+            "addDate": 1736656132170,
             "title": "Cloudflare",
             "icon": "https://logo.clearbit.com/dash.cloudflare.com",
             "url": "https://dash.cloudflare.com/"
           },
           {
             "type": "link",
-            "addDate": 1730602082000,
+            "addDate": 1736656132170,
             "title": "Firebase console",
             "icon": "https://logo.clearbit.com/console.firebase.google.com",
             "url": "https://console.firebase.google.com/"
           },
           {
             "type": "link",
-            "addDate": 1730601970000,
+            "addDate": 1736656132170,
             "title": "Proton",
             "icon": "https://logo.clearbit.com/account.proton.me",
             "url": "https://account.proton.me/es-es/apps"
           },
           {
             "type": "link",
-            "addDate": 1730607773000,
+            "addDate": 1736656132170,
             "title": "Hades0413 - Replit",
             "icon": "https://logo.clearbit.com/replit.com",
             "url": "https://replit.com/@Hades0413"
           },
           {
             "type": "link",
-            "addDate": 1730608123000,
+            "addDate": 1736656132170,
             "title": "Monitores | UptimeRobot",
             "icon": "https://logo.clearbit.com/dashboard.uptimerobot.com",
             "url": "https://dashboard.uptimerobot.com/monitors"
@@ -720,82 +825,89 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637650,
+        "addDate": 1736656132170,
         "title": "servers",
         "children": [
           {
             "type": "link",
-            "addDate": 1730618502000,
+            "addDate": 1736656132170,
             "title": "Somee",
             "icon": "https://logo.clearbit.com/somee.com",
             "url": "https://somee.com/DOKA/DOU"
           },
           {
             "type": "link",
-            "addDate": 1730618378000,
+            "addDate": 1736656132170,
             "title": "myASP.NET",
             "icon": "https://logo.clearbit.com/member5.myasp.net",
             "url": "https://member5.myasp.net/account/account_screen"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132170,
             "title": "ngrok",
             "icon": "https://logo.clearbit.com/dashboard.ngrok.com",
             "url": "https://dashboard.ngrok.com/billing"
           },
           {
             "type": "link",
-            "addDate": 1731282480000,
+            "addDate": 1736656132170,
             "title": "zrok",
             "icon": "https://logo.clearbit.com/zrok.io",
             "url": "https://zrok.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132170,
+            "title": "Railway",
+            "icon": "https://logo.clearbit.com/railway.app",
+            "url": "https://railway.app/"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1731296637651,
+        "addDate": 1736656132171,
         "title": "url tools",
         "children": [
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132171,
             "title": "SnapTik",
             "icon": "https://logo.clearbit.com/snaptik.app",
             "url": "https://snaptik.app/en1"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132171,
             "title": "Convertidor - YouTube MP3/MP4",
             "icon": "https://logo.clearbit.com/notube.site",
             "url": "https://notube.site/es/youtube-app-v103"
           },
           {
             "type": "link",
-            "addDate": 1727044673000,
+            "addDate": 1736656132171,
             "title": "Acortar URL - lc.cx",
             "icon": "https://logo.clearbit.com/lc.cx",
             "url": "https://lc.cx/es"
           },
           {
             "type": "link",
-            "addDate": 1727490683000,
+            "addDate": 1736656132171,
             "title": "URL TinyURL",
             "icon": "https://logo.clearbit.com/tinyurl.com",
             "url": "https://tinyurl.com/"
           },
           {
             "type": "link",
-            "addDate": 1730851779000,
+            "addDate": 1736656132171,
             "title": "Lector de códigos QR",
             "icon": "https://logo.clearbit.com/pageloot.com",
             "url": "https://pageloot.com/es/qr-code-scanner/"
           },
           {
             "type": "link",
-            "addDate": 1730851799000,
+            "addDate": 1736656132171,
             "title": "Lector QR Online",
             "icon": "https://logo.clearbit.com/www.codigos-qr.com",
             "url": "https://www.codigos-qr.com/lector-qr-online/"
@@ -804,47 +916,47 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637652,
+        "addDate": 1736656132171,
         "title": "api",
         "children": [
           {
             "type": "link",
-            "addDate": 1730681277000,
+            "addDate": 1736656132171,
             "title": "Public APIs For Developers",
             "icon": "https://logo.clearbit.com/publicapis.dev",
             "url": "https://publicapis.dev/"
           },
           {
             "type": "link",
-            "addDate": 1730681318000,
+            "addDate": 1736656132171,
             "title": "APILayer",
             "icon": "https://logo.clearbit.com/apilayer.com",
             "url": "https://apilayer.com/#bestSellers"
           },
           {
             "type": "link",
-            "addDate": 1730684675000,
+            "addDate": 1736656132171,
             "title": "Rapid’s",
             "icon": "https://logo.clearbit.com/rapidapi.com",
             "url": "https://rapidapi.com/hub"
           },
           {
             "type": "link",
-            "addDate": 1730685044000,
+            "addDate": 1736656132171,
             "title": "API Stack",
             "icon": "https://logo.clearbit.com/www.apistack.io",
             "url": "https://www.apistack.io/category/directories"
           },
           {
             "type": "link",
-            "addDate": 1730685166000,
+            "addDate": 1736656132171,
             "title": "apiperu",
             "icon": "https://logo.clearbit.com/docs.apiperu.dev",
             "url": "https://docs.apiperu.dev/"
           },
           {
             "type": "link",
-            "addDate": 1730685252000,
+            "addDate": 1736656132171,
             "title": "EmailJS",
             "icon": "https://logo.clearbit.com/dashboard.emailjs.com",
             "url": "https://dashboard.emailjs.com/admin"
@@ -853,99 +965,176 @@
       },
       {
         "type": "folder",
-        "addDate": 1731296637652,
+        "addDate": 1736656132171,
+        "title": "linux",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1736656132171,
+            "title": "Snapcraft",
+            "icon": "https://logo.clearbit.com/snapcraft.io",
+            "url": "https://snapcraft.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132171,
+            "title": "Flathub - Apps for Linux",
+            "icon": "https://logo.clearbit.com/flathub.org",
+            "url": "https://flathub.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132171,
+            "title": "ProtonDB | Gaming know-how from the Linux and Steam Deck community",
+            "icon": "https://logo.clearbit.com/www.protondb.com",
+            "url": "https://www.protondb.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132171,
+            "title": "Flatpak—the future of application distribution",
+            "icon": "https://logo.clearbit.com/flatpak.org",
+            "url": "https://flatpak.org/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1736656132172,
         "title": "streaming",
         "children": [
           {
             "type": "link",
-            "addDate": 1730846499000,
+            "addDate": 1736656132172,
             "title": "Netflix",
             "icon": "https://logo.clearbit.com/www.netflix.com",
             "url": "https://www.netflix.com/browse"
           },
           {
             "type": "link",
-            "addDate": 1730846908000,
+            "addDate": 1736656132172,
             "title": "Max",
             "icon": "https://logo.clearbit.com/www.max.com",
             "url": "https://www.max.com/pe/es"
           },
           {
             "type": "link",
-            "addDate": 1730847090000,
+            "addDate": 1736656132172,
             "title": "Disney+",
             "icon": "https://logo.clearbit.com/www.disneyplus.com",
             "url": "https://www.disneyplus.com/es-pe"
           },
           {
             "type": "link",
-            "addDate": 1730847134000,
+            "addDate": 1736656132172,
             "title": "Crunchyroll",
             "icon": "https://logo.clearbit.com/www.crunchyroll.com",
             "url": "https://www.crunchyroll.com/es"
           },
           {
             "type": "link",
-            "addDate": 1731290523000,
+            "addDate": 1736656132172,
             "title": "Pluto TV",
             "icon": "https://logo.clearbit.com/pluto.tv",
             "url": "https://pluto.tv/latam/live-tv/5ee92e72fb286e0007285fec?lang=en"
           },
           {
             "type": "link",
-            "addDate": 1731290861000,
+            "addDate": 1736656132172,
             "title": "Canela TV",
             "icon": "https://logo.clearbit.com/www.canela.tv",
             "url": "https://www.canela.tv/"
           },
           {
             "type": "link",
-            "addDate": 1731174045000,
+            "addDate": 1736656132172,
             "title": "AnimeFLV",
             "icon": "https://logo.clearbit.com/www3.animeflv.net",
             "url": "https://www3.animeflv.net/"
           },
           {
             "type": "link",
-            "addDate": 1731194803000,
+            "addDate": 1736656132172,
             "title": "Animeplus",
             "icon": "https://logo.clearbit.com/ww3.animeonline.ninja",
             "url": "https://ww3.animeonline.ninja/genero/animeplus/"
           },
           {
             "type": "link",
-            "addDate": 1731291085000,
+            "addDate": 1736656132172,
             "title": "Dragon Ball Sullca",
             "icon": "https://logo.clearbit.com/dbsullca.com",
             "url": "https://dbsullca.com/"
           },
           {
             "type": "link",
-            "addDate": 1730847312000,
+            "addDate": 1736656132172,
             "title": "Pelota Libre TV",
             "icon": "https://logo.clearbit.com/pelotalibre.pe",
             "url": "https://pelotalibre.pe/"
           },
           {
             "type": "link",
-            "addDate": 1730847334000,
+            "addDate": 1736656132172,
             "title": "Goluchas",
             "icon": "https://logo.clearbit.com/goluchas.com",
             "url": "https://goluchas.com/"
           },
           {
             "type": "link",
-            "addDate": 1730847384000,
+            "addDate": 1736656132172,
             "title": "Mundo Lucha",
             "icon": "https://logo.clearbit.com/mundolucha.com",
             "url": "https://mundolucha.com/"
           },
           {
             "type": "link",
-            "addDate": 1731194881000,
+            "addDate": 1736656132172,
             "title": "PELISFLIX",
             "icon": "https://logo.clearbit.com/pelisflix2.report",
             "url": "https://pelisflix2.report/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1736656132172,
+        "title": "cib",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1736656132172,
+            "title": "Login CIBERTEC",
+            "icon": "https://logo.clearbit.com/intranet.cibertec.edu.pe",
+            "url": "https://intranet.cibertec.edu.pe/LoginIntranet/LoginCIB.aspx"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132172,
+            "title": "Mi institucion CIBERTEC – Blackboard Learn",
+            "icon": "https://logo.clearbit.com/cibertec.blackboard.com",
+            "url": "https://cibertec.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_16_1"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132172,
+            "title": "Nuevo Portal del Estudiante Mi Cibertec y Servicios Virtuales",
+            "icon": "https://logo.clearbit.com/estudiante.cibertec.edu.pe",
+            "url": "https://estudiante.cibertec.edu.pe/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132173,
+            "title": "Contacto Cibertec",
+            "icon": "https://logo.clearbit.com/contacto.cibertec.edu.pe",
+            "url": "https://contacto.cibertec.edu.pe/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1736656132173,
+            "title": "Quizit - Best Quizizz Hack, Cheat, Answers",
+            "icon": "https://logo.clearbit.com/quizit.online",
+            "url": "https://quizit.online/services/quizizz"
           }
         ]
       }
